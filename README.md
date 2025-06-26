@@ -1,7 +1,7 @@
 # Hi, I'm Premkumar
 
 ## About Me  
-I am a second-year B.Tech student specializing in Cloud Computing. I have a strong passion for cloud technologies and modern infrastructure. In addition to cloud computing, I have developed several web development projects, gaining experience in building scalable and efficient applications.  
+I am a third-year B.Tech student specializing in Cloud Computing. I have a strong passion for cloud technologies and modern infrastructure. In addition to cloud computing, I have developed several web development projects, gaining experience in building scalable and efficient applications.  
 
 ## Connect With Me  
 - **LinkedIn:** [Premkumar K](https://www.linkedin.com/in/premkumar-k-506922299)  
